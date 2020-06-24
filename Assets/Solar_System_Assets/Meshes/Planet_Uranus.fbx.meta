@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 584e4bdf6556a2d449f1a789fb97f334
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Atmosphere
+    100002: Clouds
+    100004: //RootNode
+    100006: Uranus
+    100008: Uranus_Ring
+    100010: Atmosphere_LOD0
+    100012: Atmosphere_LOD1
+    100014: Atmosphere_LOD2
+    100016: Atmosphere_LOD3
+    100018: Clouds_LOD0
+    100020: Clouds_LOD1
+    100022: Clouds_LOD2
+    100024: Clouds_LOD3
+    100026: Uranus_LOD0
+    100028: Uranus_LOD1
+    100030: Uranus_LOD2
+    100032: Uranus_LOD3
+    100034: Uranus_Ring_LOD0
+    100036: Uranus_Ring_LOD1
+    100038: Uranus_Ring_LOD2
+    100040: Uranus_Ring_LOD3
+    400000: Atmosphere
+    400002: Clouds
+    400004: //RootNode
+    400006: Uranus
+    400008: Uranus_Ring
+    400010: Atmosphere_LOD0
+    400012: Atmosphere_LOD1
+    400014: Atmosphere_LOD2
+    400016: Atmosphere_LOD3
+    400018: Clouds_LOD0
+    400020: Clouds_LOD1
+    400022: Clouds_LOD2
+    400024: Clouds_LOD3
+    400026: Uranus_LOD0
+    400028: Uranus_LOD1
+    400030: Uranus_LOD2
+    400032: Uranus_LOD3
+    400034: Uranus_Ring_LOD0
+    400036: Uranus_Ring_LOD1
+    400038: Uranus_Ring_LOD2
+    400040: Uranus_Ring_LOD3
+    2100000: Uranus_M
+    2100002: Uranus_Atmosphere_M
+    2100004: Uranus_Clouds_M
+    2100006: Uranus_Ring_M
+    2100008: Sun_Atmosphere_M
+    2300000: Atmosphere
+    2300002: Clouds
+    2300004: Uranus
+    2300006: Uranus_Ring
+    2300008: Atmosphere_LOD0
+    2300010: Atmosphere_LOD1
+    2300012: Atmosphere_LOD2
+    2300014: Atmosphere_LOD3
+    2300016: Clouds_LOD0
+    2300018: Clouds_LOD1
+    2300020: Clouds_LOD2
+    2300022: Clouds_LOD3
+    2300024: Uranus_LOD0
+    2300026: Uranus_LOD1
+    2300028: Uranus_LOD2
+    2300030: Uranus_LOD3
+    2300032: Uranus_Ring_LOD0
+    2300034: Uranus_Ring_LOD1
+    2300036: Uranus_Ring_LOD2
+    2300038: Uranus_Ring_LOD3
+    3300000: Atmosphere
+    3300002: Clouds
+    3300004: Uranus
+    3300006: Uranus_Ring
+    3300008: Atmosphere_LOD0
+    3300010: Atmosphere_LOD1
+    3300012: Atmosphere_LOD2
+    3300014: Atmosphere_LOD3
+    3300016: Clouds_LOD0
+    3300018: Clouds_LOD1
+    3300020: Clouds_LOD2
+    3300022: Clouds_LOD3
+    3300024: Uranus_LOD0
+    3300026: Uranus_LOD1
+    3300028: Uranus_LOD2
+    3300030: Uranus_LOD3
+    3300032: Uranus_Ring_LOD0
+    3300034: Uranus_Ring_LOD1
+    3300036: Uranus_Ring_LOD2
+    3300038: Uranus_Ring_LOD3
+    4300000: Uranus
+    4300002: Atmosphere
+    4300004: Clouds
+    4300006: Uranus_Ring
+    4300008: Uranus_Ring_LOD0
+    4300010: Atmosphere_LOD2
+    4300012: Uranus_Ring_LOD1
+    4300014: Atmosphere_LOD1
+    4300016: Uranus_Ring_LOD2
+    4300018: Atmosphere_LOD3
+    4300020: Uranus_Ring_LOD3
+    4300022: Atmosphere_LOD0
+    4300024: Uranus_LOD0
+    4300026: Clouds_LOD0
+    4300028: Clouds_LOD3
+    4300030: Uranus_LOD3
+    4300032: Uranus_LOD1
+    4300034: Clouds_LOD1
+    4300036: Clouds_LOD2
+    4300038: Uranus_LOD2
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sun_Atmosphere_M
+    second: {fileID: 2100000, guid: fb5a41ae98b630441a952a94dfb80a69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Uranus_Clouds_M
+    second: {fileID: 2100000, guid: ac6004731d294464b86f3a6a6ee04b7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Uranus_M
+    second: {fileID: 2100000, guid: ca4e3a8bf74ed3c4687fef1f13416c82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Uranus_Ring_M
+    second: {fileID: 2100000, guid: 6fb5b8ab9adcb3743914d720da9e8296, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

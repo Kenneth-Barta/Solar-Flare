@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 0a011300ecb73b8418e5bb75279c3716
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Atmosphere
+    100002: Clouds
+    100004: //RootNode
+    100006: Saturn
+    100008: Saturn_Ring
+    100010: Atmosphere_LOD0
+    100012: Atmosphere_LOD1
+    100014: Atmosphere_LOD2
+    100016: Atmosphere_LOD3
+    100018: Clouds_LOD0
+    100020: Clouds_LOD1
+    100022: Clouds_LOD2
+    100024: Clouds_LOD3
+    100026: Saturn_LOD0
+    100028: Saturn_LOD1
+    100030: Saturn_LOD2
+    100032: Saturn_LOD3
+    100034: Saturn_Ring_LOD0
+    100036: Saturn_Ring_LOD1
+    100038: Saturn_Ring_LOD2
+    100040: Saturn_Ring_LOD3
+    400000: Atmosphere
+    400002: Clouds
+    400004: //RootNode
+    400006: Saturn
+    400008: Saturn_Ring
+    400010: Atmosphere_LOD0
+    400012: Atmosphere_LOD1
+    400014: Atmosphere_LOD2
+    400016: Atmosphere_LOD3
+    400018: Clouds_LOD0
+    400020: Clouds_LOD1
+    400022: Clouds_LOD2
+    400024: Clouds_LOD3
+    400026: Saturn_LOD0
+    400028: Saturn_LOD1
+    400030: Saturn_LOD2
+    400032: Saturn_LOD3
+    400034: Saturn_Ring_LOD0
+    400036: Saturn_Ring_LOD1
+    400038: Saturn_Ring_LOD2
+    400040: Saturn_Ring_LOD3
+    2100000: Saturn_M
+    2100002: Saturn_Atmosphere_M
+    2100004: Saturn_Ring_M
+    2100006: Saturn_Clouds_M
+    2100008: Pluto_Atmosphere_M
+    2100010: Pluto_M
+    2100012: Pluto_Clouds_M
+    2300000: Atmosphere
+    2300002: Clouds
+    2300004: Saturn
+    2300006: Saturn_Ring
+    2300008: Atmosphere_LOD0
+    2300010: Atmosphere_LOD1
+    2300012: Atmosphere_LOD2
+    2300014: Atmosphere_LOD3
+    2300016: Clouds_LOD0
+    2300018: Clouds_LOD1
+    2300020: Clouds_LOD2
+    2300022: Clouds_LOD3
+    2300024: Saturn_LOD0
+    2300026: Saturn_LOD1
+    2300028: Saturn_LOD2
+    2300030: Saturn_LOD3
+    2300032: Saturn_Ring_LOD0
+    2300034: Saturn_Ring_LOD1
+    2300036: Saturn_Ring_LOD2
+    2300038: Saturn_Ring_LOD3
+    3300000: Atmosphere
+    3300002: Clouds
+    3300004: Saturn
+    3300006: Saturn_Ring
+    3300008: Atmosphere_LOD0
+    3300010: Atmosphere_LOD1
+    3300012: Atmosphere_LOD2
+    3300014: Atmosphere_LOD3
+    3300016: Clouds_LOD0
+    3300018: Clouds_LOD1
+    3300020: Clouds_LOD2
+    3300022: Clouds_LOD3
+    3300024: Saturn_LOD0
+    3300026: Saturn_LOD1
+    3300028: Saturn_LOD2
+    3300030: Saturn_LOD3
+    3300032: Saturn_Ring_LOD0
+    3300034: Saturn_Ring_LOD1
+    3300036: Saturn_Ring_LOD2
+    3300038: Saturn_Ring_LOD3
+    4300000: Saturn
+    4300002: Atmosphere
+    4300004: Saturn_Ring
+    4300006: Clouds
+    4300008: Saturn_Ring_LOD0
+    4300010: Atmosphere_LOD0
+    4300012: Saturn_Ring_LOD1
+    4300014: Saturn_LOD1
+    4300016: Saturn_Ring_LOD2
+    4300018: Clouds_LOD2
+    4300020: Saturn_Ring_LOD3
+    4300022: Atmosphere_LOD2
+    4300024: Saturn_LOD0
+    4300026: Saturn_LOD3
+    4300028: Clouds_LOD3
+    4300030: Clouds_LOD0
+    4300032: Atmosphere_LOD1
+    4300034: Atmosphere_LOD3
+    4300036: Saturn_LOD2
+    4300038: Clouds_LOD1
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pluto_Atmosphere_M
+    second: {fileID: 2100000, guid: 09c52e858e6cf64438e58aaa790d77c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pluto_Clouds_M
+    second: {fileID: 2100000, guid: 7e2ce4fc0c1bf99408c96c77e54979fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pluto_M
+    second: {fileID: 2100000, guid: b33a79936bf5570489352b3d8bda8fcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Saturn_Ring_M
+    second: {fileID: 2100000, guid: 7a7d0327d9f158d4bb91bed7f2cf5dd0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

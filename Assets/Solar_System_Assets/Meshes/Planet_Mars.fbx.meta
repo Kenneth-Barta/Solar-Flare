@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 2f965d293c6af274b8700e7b2befa84b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Atmosphere
+    100002: Clouds
+    100004: Mars
+    100006: //RootNode
+    100008: Atmosphere_LOD0
+    100010: Atmosphere_LOD1
+    100012: Atmosphere_LOD2
+    100014: Atmosphere_LOD3
+    100016: Clouds_LOD0
+    100018: Clouds_LOD1
+    100020: Clouds_LOD2
+    100022: Clouds_LOD3
+    100024: Mars_LOD0
+    100026: Mars_LOD1
+    100028: Mars_LOD2
+    100030: Mars_LOD3
+    400000: Atmosphere
+    400002: Clouds
+    400004: Mars
+    400006: //RootNode
+    400008: Atmosphere_LOD0
+    400010: Atmosphere_LOD1
+    400012: Atmosphere_LOD2
+    400014: Atmosphere_LOD3
+    400016: Clouds_LOD0
+    400018: Clouds_LOD1
+    400020: Clouds_LOD2
+    400022: Clouds_LOD3
+    400024: Mars_LOD0
+    400026: Mars_LOD1
+    400028: Mars_LOD2
+    400030: Mars_LOD3
+    2100000: Earth_M
+    2100002: Earth_Atmosphere_M
+    2100004: Earth_Clouds_M
+    2100006: Mars_M
+    2100008: Mars_Clouds_M
+    2100010: Mars_Atmosphere_M
+    2300000: Atmosphere
+    2300002: Clouds
+    2300004: Mars
+    2300006: Atmosphere_LOD0
+    2300008: Atmosphere_LOD1
+    2300010: Atmosphere_LOD2
+    2300012: Atmosphere_LOD3
+    2300014: Clouds_LOD0
+    2300016: Clouds_LOD1
+    2300018: Clouds_LOD2
+    2300020: Clouds_LOD3
+    2300022: Mars_LOD0
+    2300024: Mars_LOD1
+    2300026: Mars_LOD2
+    2300028: Mars_LOD3
+    3300000: Atmosphere
+    3300002: Clouds
+    3300004: Mars
+    3300006: Atmosphere_LOD0
+    3300008: Atmosphere_LOD1
+    3300010: Atmosphere_LOD2
+    3300012: Atmosphere_LOD3
+    3300014: Clouds_LOD0
+    3300016: Clouds_LOD1
+    3300018: Clouds_LOD2
+    3300020: Clouds_LOD3
+    3300022: Mars_LOD0
+    3300024: Mars_LOD1
+    3300026: Mars_LOD2
+    3300028: Mars_LOD3
+    4300000: Mars
+    4300002: Atmosphere
+    4300004: Clouds
+    4300006: Mars_LOD0
+    4300008: Mars_LOD3
+    4300010: Clouds_LOD2
+    4300012: Atmosphere_LOD1
+    4300014: Atmosphere_LOD3
+    4300016: Atmosphere_LOD0
+    4300018: Clouds_LOD1
+    4300020: Mars_LOD2
+    4300022: Mars_LOD1
+    4300024: Clouds_LOD0
+    4300026: Clouds_LOD3
+    4300028: Atmosphere_LOD2
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mars_Atmosphere_M
+    second: {fileID: 2100000, guid: f57ffc16be573364398dcce0da609767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mars_Clouds_M
+    second: {fileID: 2100000, guid: e35b9f96c7dc9e842afc9be0ec469a0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mars_M
+    second: {fileID: 2100000, guid: 2e7c4c9686816b8478a2a4498da22508, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: f4b4a4642c9cbd7498f03d94d15e04c7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Atmosphere
+    100002: Clouds
+    100004: Moon
+    100006: //RootNode
+    100008: Earth
+    100010: Atmosphere_LOD0
+    100012: Atmosphere_LOD1
+    100014: Atmosphere_LOD2
+    100016: Atmosphere_LOD3
+    100018: Clouds_LOD0
+    100020: Clouds_LOD1
+    100022: Clouds_LOD2
+    100024: Clouds_LOD3
+    100026: Moon_LOD0
+    100028: Moon_LOD1
+    100030: Moon_LOD2
+    100032: Moon_LOD3
+    400000: Atmosphere
+    400002: Clouds
+    400004: Moon
+    400006: //RootNode
+    400008: Earth
+    400010: Atmosphere_LOD0
+    400012: Atmosphere_LOD1
+    400014: Atmosphere_LOD2
+    400016: Atmosphere_LOD3
+    400018: Clouds_LOD0
+    400020: Clouds_LOD1
+    400022: Clouds_LOD2
+    400024: Clouds_LOD3
+    400026: Moon_LOD0
+    400028: Moon_LOD1
+    400030: Moon_LOD2
+    400032: Moon_LOD3
+    2100000: Earth_M
+    2100002: Earth_Atmosphere_M
+    2100004: Earth_Clouds_M
+    2100006: Moon_M
+    2100008: Moon_Atmosphere_M
+    2100010: Moon_Clouds_M
+    2300000: Atmosphere
+    2300002: Clouds
+    2300004: Moon
+    2300006: Earth
+    2300008: Atmosphere_LOD0
+    2300010: Atmosphere_LOD1
+    2300012: Atmosphere_LOD2
+    2300014: Atmosphere_LOD3
+    2300016: Clouds_LOD0
+    2300018: Clouds_LOD1
+    2300020: Clouds_LOD2
+    2300022: Clouds_LOD3
+    2300024: Moon_LOD0
+    2300026: Moon_LOD1
+    2300028: Moon_LOD2
+    2300030: Moon_LOD3
+    3300000: Atmosphere
+    3300002: Clouds
+    3300004: Moon
+    3300006: Earth
+    3300008: Atmosphere_LOD0
+    3300010: Atmosphere_LOD1
+    3300012: Atmosphere_LOD2
+    3300014: Atmosphere_LOD3
+    3300016: Clouds_LOD0
+    3300018: Clouds_LOD1
+    3300020: Clouds_LOD2
+    3300022: Clouds_LOD3
+    3300024: Moon_LOD0
+    3300026: Moon_LOD1
+    3300028: Moon_LOD2
+    3300030: Moon_LOD3
+    4300000: Moon
+    4300002: Atmosphere
+    4300004: Clouds
+    4300006: Earth
+    4300008: Moon_LOD0
+    4300010: Atmosphere_LOD3
+    4300012: Moon_LOD1
+    4300014: Atmosphere_LOD2
+    4300016: Moon_LOD2
+    4300018: Atmosphere_LOD1
+    4300020: Moon_LOD3
+    4300022: Atmosphere_LOD0
+    4300024: Clouds_LOD0
+    4300026: Clouds_LOD3
+    4300028: Clouds_LOD1
+    4300030: Clouds_LOD2
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moon_Atmosphere_M
+    second: {fileID: 2100000, guid: 02830af6886bca14bb87a899fa0a722a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moon_Clouds_M
+    second: {fileID: 2100000, guid: 1fa0a3ef2efe7b145b59961882362690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moon_M
+    second: {fileID: 2100000, guid: 6e96f10a01a6a764395935e47a152ca7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
